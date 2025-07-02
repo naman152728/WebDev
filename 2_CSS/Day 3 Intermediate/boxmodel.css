@@ -1,0 +1,26 @@
+div{
+    height: 175px;
+    width: 375px;
+    background: orange;
+    border-color: red;
+    border-width: 5px;
+    border-style:double;
+    border-radius: 5%;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+}
+
+h1{
+    border: 3px double purple;
+    width: fit-content;
+    border-radius:5px;
+    margin-bottom: 5px;
+}
+
+button{
+    border-radius: 5px;
+    border-style:groove;
+    padding: 12px 12px 12px 12px;
+    margin-top: 5px;
+}

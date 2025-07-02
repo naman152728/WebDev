@@ -1,0 +1,17 @@
+h1{
+    color: orangered;
+}
+
+p{
+    font-style: italic;
+    background: #b38282;
+}
+
+button{
+    color: purple;
+    background: gold;
+    font-style: oblique;
+    border: rebeccapurple;
+    border-style:double;
+    border-radius: 20in;
+}

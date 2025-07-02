@@ -1,0 +1,13 @@
+.out{
+    width: 70px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.in{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+}
